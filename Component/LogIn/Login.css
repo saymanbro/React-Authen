@@ -1,0 +1,11 @@
+.logIn{
+    text-align: center;
+    margin-top: 200px;
+}
+.log{
+    border: 1px solid gray;
+    box-shadow: 4px 4px 8px gray;
+    width: 500px;
+    padding: 10px;
+    margin-left: 250px;
+}

@@ -1,0 +1,11 @@
+.home-bg{
+   
+   width:1000px;
+   height: 750px;
+    background-image: url('logo/image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+};
+.img{
+    width: 200px;
+}
